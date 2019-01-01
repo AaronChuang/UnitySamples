@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1c07b5d5bbb6b840a830b29d2c10c63, type: 3}
+  m_Name: A3.Room3
+  m_EditorClassIdentifier: 
+  storyText: 'Room3
+
+
+    1. End 2'
+  nextStates:
+  - {fileID: 11400000, guid: ebbd8e734bcdb2b47a86682e9509570f, type: 2}
